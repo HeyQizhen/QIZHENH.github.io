@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-08T23:35:47.783Z</updated>
+  <updated>2019-10-08T16:29:50.851Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,25 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title></title>
-    <link href="http://yoursite.com/2019/10/08/Interview/"/>
-    <id>http://yoursite.com/2019/10/08/Interview/</id>
-    <published>2019-10-08T20:16:24.244Z</published>
-    <updated>2019-10-08T23:35:47.783Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="20秋招数分面经"><a href="#20秋招数分面经" class="headerlink" title="##20秋招数分面经"></a>##20秋招数分面经</h2><p>趣店集团-数据分析专员-一面</p><p>1.自我介绍</p><p>2.实习内容，主要工作，职责，最后的结果</p><p>3.反欺诈项目内容，针对“不同变量与保险欺诈之间的关系”问：挑一个变量讲讲，怎么影响保险欺诈，对用户来说有什么意义。</p><a id="more"></a><p>4.对数据分析岗位的理解</p><p>5.一个app今天用户活跃度比昨天下降了20%，分析原因。</p><p>（首先看往期是否存在下降趋势，然后确定数据读取的是否正确，因为一个大的异常可能是数据存取的问题。再用户分为新老用户，新用户：分渠道分析，ios 安卓等。老用户：可能是app某个功能出现问题）</p><p>6.Excel和SQL用的熟练吗？Excel里面匹配用什么函数？SQL里面左联结知道吗？</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;20秋招数分面经&quot;&gt;&lt;a href=&quot;#20秋招数分面经&quot; class=&quot;headerlink&quot; title=&quot;##20秋招数分面经&quot;&gt;&lt;/a&gt;##20秋招数分面经&lt;/h2&gt;&lt;p&gt;趣店集团-数据分析专员-一面&lt;/p&gt;&lt;p&gt;1.自我介绍&lt;/p&gt;&lt;p&gt;2.实习内容，主要工作，职责，最后的结果&lt;/p&gt;&lt;p&gt;3.反欺诈项目内容，针对“不同变量与保险欺诈之间的关系”问：挑一个变量讲讲，怎么影响保险欺诈，对用户来说有什么意义。&lt;/p&gt;
-    
-    </summary>
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Build Hexo Blog</title>
