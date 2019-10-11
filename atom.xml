@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-11T15:46:59.208Z</updated>
+  <updated>2019-10-11T15:48:38.618Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://yoursite.com/2019/10/11/A-B-Testing/"/>
     <id>http://yoursite.com/2019/10/11/A-B-Testing/</id>
     <published>2019-10-11T15:41:14.000Z</published>
-    <updated>2019-10-11T15:46:59.208Z</updated>
+    <updated>2019-10-11T15:48:38.618Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="How-to-do-an-A-B-test"><a href="#How-to-do-an-A-B-test" class="headerlink" title="###How to do an A/B test?"></a>###How to do an A/B test?</h2><ol><li>Choose and characterize metrics to evaluate your experiments</li><li>Choose significance level(alpha), statistical power(1-beta) and practical significance level you really want to launch the change if the test is statistically significant</li><li>Calculate required sample size</li><li>Take sampe for control/treatment groups and run the test</li><li>Analyze the results and draw valid conclusions</li></ol>]]></content>
+    <content type="html"><![CDATA[<h3 id="How-to-do-an-A-B-test"><a href="#How-to-do-an-A-B-test" class="headerlink" title="How to do an A/B test?"></a>How to do an A/B test?</h3><hr><ol><li>Choose and characterize metrics to evaluate your experiments</li><li>Choose significance level(alpha), statistical power(1-beta) and practical significance level you really want to launch the change if the test is statistically significant</li><li>Calculate required sample size</li><li>Take sampe for control/treatment groups and run the test</li><li>Analyze the results and draw valid conclusions</li></ol>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;How-to-do-an-A-B-test&quot;&gt;&lt;a href=&quot;#How-to-do-an-A-B-test&quot; class=&quot;headerlink&quot; title=&quot;###How to do an A/B test?&quot;&gt;&lt;/a&gt;###How to do an A/B
+        &lt;h3 id=&quot;How-to-do-an-A-B-test&quot;&gt;&lt;a href=&quot;#How-to-do-an-A-B-test&quot; class=&quot;headerlink&quot; title=&quot;How to do an A/B test?&quot;&gt;&lt;/a&gt;How to do an A/B test?
       
     
     </summary>
